@@ -296,6 +296,10 @@ data/preprocessed_data.csv
 
 Graph analysis is performed using Neo4j Graph Data Science (GDS).
 
+```text
+docs/neo4j/cypher-queries.md
+```
+
 Implemented analyses include:
 - PageRank Centrality
 - Degree Centrality
@@ -352,7 +356,7 @@ The following dashboard figures represent the visualization approach used in thi
 
 ## Dashboard Distribution & Community Profiling 
 
-![NeoDash Dashboard](docs/figures/neodash-pade3.png)
+![NeoDash Dashboard](docs/figures/neodash-page3.png)
 
 ---
 
