@@ -236,7 +236,7 @@ Contains:
 Location:
 
 ```text
-data/preprocessed_dat.csv
+data/preprocessed_data.csv
 ```
 
 Contains:
@@ -257,7 +257,7 @@ The processed dataset uses:
 The crawling process is implemented in:
 
 ```text
-notebook/CrawlingData.ipynb
+code/CrawlingData.ipynb
 ```
 
 Main functions:
@@ -273,7 +273,7 @@ Main functions:
 The preprocessing workflow is implemented in:
 
 ```text
-notebook/PreprocessingData.ipynb
+code/PreprocessingData.ipynb
 ```
 
 Main functions:
